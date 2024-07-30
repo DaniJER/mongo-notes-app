@@ -1,0 +1,11 @@
+connect-flash para mostrar algun  mensaje en ventana que nos indique si estamos haciendo algo mal.
+bcryptjs: es un modelo de cifrado y nos ayuda a cifrar un texto
+express-handlebars: sirve para crear y conbinar archivos html.
+express-sesion: sirve para guardar algunos datos desde la memoria del servidor. (cuaando el usuario haga un login).
+method- override: para enviar peticiones put o delete desde la vista.
+moongose: nos ayuda a manejar la base de datos de mongoDB (esquema para definir un modelo de datos e implementarlo).
+passport: metodo que permite al usuario autenticarse.
+passport local: Es para especificar que estaremos utilizando nuestra base de datos local.
+dotenv: con esto se guardan nuestras credenciales de conexion a la base de datos.
+handlebars: para solucionars algunos errores de express handlebars.
+npm-check-update: ayuda a  supervisar  si hay nuevvos modulos o nuevas actualizaciones
